@@ -163,7 +163,7 @@
             <version>${org.apache.hadoop.version}</version>
         </dependency>
         <dependency>
-            <groupId>org.apache.hadoop</groupId>
+            <groupId>io.falcon.hadoop</groupId>
             <artifactId>hadoop-aws</artifactId>
             <version>${org.apache.hadoop.version}</version>
             <exclusions>
